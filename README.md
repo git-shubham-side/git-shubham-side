@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node.js, SQL, Express.js, React
 - 🤝 I’m looking to collaborate on a full-stack project
-- 📫 How to reach me: Instagram @shubham_rathod588
+- 📫 How to reach me: Instagram @shubham__rrathod
 - 😄 Pronouns: Shubh
 
 
