@@ -1,53 +1,26 @@
 <h1 align="center">Shubham Rathod</h1>
 <p align="center">Full-Stack Developer (MERN)</p>
 
+<h1 align="center">Shubham Rathod</h1>
+<p align="center">Full-Stack Developer (MERN)</p>
+
 ---
 
-### About Me
+### About
 ```diff
-+ I work on web applications using the MERN stack
-+ I focus on building practical and real-world projects
-+ Currently improving my full-stack and problem-solving skills
-+ Interested in clean UI and scalable backend systems
++ Working with MERN stack (MongoDB, Express, React, Node)
++ Focused on building practical web applications
++ Continuously improving development skills
 ```
 
 ---
 
-### Tech Stack
+### Tech
 ```yaml
-Frontend:
-  - HTML
-  - CSS
-  - JavaScript
-  - React.js
-
-Backend:
-  - Node.js
-  - Express.js
-
-Database:
-  - MongoDB
-
-Tools:
-  - Git
-  - GitHub
-```
-
----
-
-### Projects & Work
-```diff
-+ Built multiple full-stack and frontend projects
-+ Experience with authentication, REST APIs, and CRUD operations
-+ Interested in dashboards, tools, and utility-based applications
-```
-
----
-
-### Collaboration
-```diff
-+ Open to working on full-stack projects
-+ Looking to collaborate and gain real-world experience
+Frontend: [HTML, CSS, JavaScript, React]
+Backend: [Node.js, Express]
+Database: [MongoDB]
+Tools: [Git, GitHub]
 ```
 
 ---
