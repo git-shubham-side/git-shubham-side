@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git-shubham-side
 - 👀 I’m interested in Web Development
-- 🌱 Completed MERN, n' learning JavaFullstack
+- 🌱 Completed MERN
 - 🤝 I’m looking to collaborate on a full-stack project
 - 📫 How to reach me: Instagram @shubham__rrathod
 - 😄 Pronouns: Shubh
