@@ -1,9 +1,6 @@
 <h1 align="center">Shubham Rathod</h1>
 <p align="center">Full-Stack Developer (MERN)</p>
 
-<h1 align="center">Shubham Rathod</h1>
-<p align="center">Full-Stack Developer (MERN)</p>
-
 ---
 
 ### About
