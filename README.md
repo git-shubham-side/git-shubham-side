@@ -6,42 +6,32 @@
 
 ---
 
-## About Me
-- Passionate about Web Development and building scalable applications  
-- Completed MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- Focused on real-world, practical project development  
-- Continuously learning and improving development skills  
+### About Me
+```diff
++ Passionate about Web Development
++ Completed MERN Stack (MongoDB, Express.js, React.js, Node.js)
++ Focused on building real-world and scalable projects
++ Continuously improving problem-solving and development skills
 
----
+Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
 
-## Tech Stack
+Backend:
+  - Node.js
+  - Express.js
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React.js  
+Database:
+  - MongoDB
 
-**Backend**
-- Node.js
-- Express.js  
+Tools:
+  - Git
+  - GitHub
 
-**Database**
-- MongoDB  
++ Open to Full-Stack Web Development Projects
++ Interested in building impactful and scalable applications
 
-**Tools**
-- Git
-- GitHub  
+Instagram = shubham__rrathod
 
----
-
-## Collaboration
-- Open to collaborating on Full-Stack Web Development Projects  
-- Interested in building impactful and scalable applications  
-
----
-
-## Contact
-- Instagram: shubham__rrathod  
-
----
