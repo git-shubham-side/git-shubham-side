@@ -1,12 +1,47 @@
-- 👋 Hi, I’m @git-shubham-side
-- 👀 I’m interested in Web Development
-- 🌱 Completed MERN
-- 🤝 I’m looking to collaborate on a full-stack project
-- 📫 How to reach me: Instagram @shubham__rrathod
-- 😄 Pronouns: Shubh
+<h1 align="center">Shubham Rathod</h1>
 
+<p align="center">
+  Aspiring Full-Stack Developer | MERN Stack
+</p>
 
-<!---
-git-shubham-side/git-shubham-side is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+- Passionate about Web Development and building scalable applications  
+- Completed MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- Focused on real-world, practical project development  
+- Continuously learning and improving development skills  
+
+---
+
+## Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React.js  
+
+**Backend**
+- Node.js
+- Express.js  
+
+**Database**
+- MongoDB  
+
+**Tools**
+- Git
+- GitHub  
+
+---
+
+## Collaboration
+- Open to collaborating on Full-Stack Web Development Projects  
+- Interested in building impactful and scalable applications  
+
+---
+
+## Contact
+- Instagram: shubham__rrathod  
+
+---
