@@ -11,7 +11,7 @@
 - 💡 Interested in working on **innovative and impactful ideas**  
 
 ## 📫 Connect With Me
-- 📸 Instagram: [@shubham__rrathod](https://instagram.com/shubham_rrathod32)
+- 📸 Instagram: [@shubham_rrathod32](https://instagram.com/shubham_rrathod32)
 
 ## ⚡ Fun Fact
 - I enjoy turning ideas into **functional and user-friendly applications**
