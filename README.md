@@ -1,17 +1,11 @@
-# 👋 Hello, I'm Shubham Rathod
+#  Hello, I'm Shubham Rathod
 
-## 🚀 About Me
-- 💻 Passionate about **Web Development** and building scalable applications  
-- 🌱 Completed **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-- 🔧 Strong focus on creating **real-world, practical projects**  
-- 📈 Continuously learning and improving my development skills  
+##  About Me
+-  Passionate about **Web Development** and building scalable applications  
+- Completed **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+-  Strong focus on creating **real-world, practical projects**  
+-  Continuously learning and improving my development skills  
 
-## 🤝 Collaboration
-- 👯 Open to collaborating on **Full-Stack Web Development Projects**  
-- 💡 Interested in working on **innovative and impactful ideas**  
-
-## 📫 Connect With Me
-- 📸 Instagram: [@shubham_rrathod32](https://instagram.com/shubham_rrathod32)
-
-## ⚡ Fun Fact
-- I enjoy turning ideas into **functional and user-friendly applications**
+##  Collaboration
+-  Open to collaborating on **Full-Stack Web Development Projects**  
+-  Interested in working on **innovative and impactful ideas**  
